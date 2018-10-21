@@ -1,4 +1,4 @@
-require pry
+require 'pry'
 
 def reverse_each_word(sentence)
   a_sentence = sentence.split(" ")
